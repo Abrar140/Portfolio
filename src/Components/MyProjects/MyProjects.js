@@ -9,7 +9,7 @@ const MyProjects = () => {
       category: "Web-Site",
       languages: ["HTML", "CSS", "React"],
       description:"I have created a comprehensive portfolio that showcases my skills, experience, and projects, starting with a welcoming home page, followed by an introduction that shares my background and interests, a skills section that highlights my technical abilities, a projects section that showcases my work on various initiatives, an experience section that outlines my professional journey and achievements, and finally, a contact section that invites visitors to get in touch with me for potential collaborations or opportunities.",
-      codeLink: "https://example.com/code1",
+      codeLink: "https://github.com/Abrar140/Portfolio.git",
       videoLink: "https://youtu.be/lvVKl_sXbTo",
     },
     {
@@ -18,7 +18,7 @@ const MyProjects = () => {
       languages: ["Express", "EJS", "Node.js", "MongoDB"],
       description:
         "Welcome to my Simple Bloging project! This web application allows users to create, read, update, and delete blogs, complete with user authentication and the ability for users to add comments to blogs.  when uuser is not Sign-In it can  only view blog. it cannot  comment or add a blog ",
-      codeLink: "https://github.com/Abrar140/WebProjects",
+      codeLink: "https://github.com/Abrar140/Simple-Bloging.git",
       videoLink: "https://youtu.be/AYKQ0kLkLSQ?feature=shared",
     },
     {
