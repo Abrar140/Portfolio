@@ -4,6 +4,15 @@ import "./MyProjects.css";
 
 const MyProjects = () => {
   const projects = [
+  {
+      name: "Chatting App",
+      category: "Web-Site",
+      languages: ["Mongodb", "Express","Node", "React", "Socket.io"],
+      description:"I have created a real time chatting Application . its include Sign up Sign in and logout functionality User can chat with other users using socket .io user can recieve  and send messages. user can see all messages.and get latest messages . user can start converstion with any user. user  can update their name  profile photo but email cannot be update . i had use MERn and socketio to implement it",
+      codeLink: "https://github.com/Abrar140/Chatt-App.git",
+      videoLink: "https://youtu.be/CCxrs0QwR68",
+    },
+    
     {
       name: "Portfolio",
       category: "Web-Site",
